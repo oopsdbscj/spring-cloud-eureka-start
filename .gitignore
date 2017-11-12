@@ -20,3 +20,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+.idea/
+wkspace-eureka-feign-client-app/.idea/inspectionProfiles/
+wkspace-eureka-feign-client-app/src/test/
+wkspace-eureka-feign-client-app/target/classes/com/
+wkspace-eureka-feign-client-app/target/generated-sources/
+wkspace-eureka-server-app/.idea/inspectionProfiles/
+wkspace-eureka-server-app/src/test/resources/
+wkspace-eureka-server-app/target/classes/com/
+wkspace-eureka-server-app/target/generated-sources/
+wkspace-eureka-server-app/target/generated-test-sources/
+wkspace-eureka-server-app/target/test-classes/
+wkspce-eureka-client-app/.idea/inspectionProfiles/
+wkspce-eureka-client-app/src/test/
+wkspce-eureka-client-app/target/classes/com/
+wkspce-eureka-client-app/target/generated-sources/
